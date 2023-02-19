@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EPD206Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EPD206Java_jar</output-path>
+    <root id="archive" name="EPD206Java.jar">
+      <element id="module-output" name="EPD206Java" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jBCM2835-1.0.0-SNAPSHOT/de.fxworld.jbcm2835_1.0.0.v20151109-2147.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jBCM2835-1.0.0-SNAPSHOT/com.sun.jna_4.1.0.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/lib" />
+    </root>
+  </artifact>
+</component>
